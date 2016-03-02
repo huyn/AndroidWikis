@@ -12,13 +12,13 @@
 [IBM自定义react组件](http://www.ibm.com/developerworks/cn/web/wa-react-intro/index.html "自定义React组件")  |
 
 * flux&redux是什么鬼系列  
-[redux videos](https://egghead.io/series/getting-started-with-redux "redux videos")
-[getting start width redux](http://davidandsuzi.com/writing-a-basic-app-in-redux/ "redux demo")
-[awesome redux git](https://github.com/xgrommx/awesome-redux "awesome redux")
-[使用redux管理react](http://www.cnblogs.com/Leo_wl/p/4780750.html "redux管理react")
-[深入理解redux](http://www.jianshu.com/p/0e42799be566 "understand redux")
-[flux介绍](http://www.cocoachina.com/webapp/20150928/13600.html "about flux")
-[flux demo](http://www.jcodecraeer.com/a/javascript/2015/0311/2581.html "flux demo")
+[redux videos](https://egghead.io/series/getting-started-with-redux "redux videos")  
+[getting start width redux](http://davidandsuzi.com/writing-a-basic-app-in-redux/ "redux demo")  
+[awesome redux git](https://github.com/xgrommx/awesome-redux "awesome redux")  
+[使用redux管理react](http://www.cnblogs.com/Leo_wl/p/4780750.html "redux管理react")  
+[深入理解redux](http://www.jianshu.com/p/0e42799be566 "understand redux")  
+[flux介绍](http://www.cocoachina.com/webapp/20150928/13600.html "about flux")  
+[flux demo](http://www.jcodecraeer.com/a/javascript/2015/0311/2581.html "flux demo")  
 
 
 [react todo demo](http://www.reqianduan.com/2297.html "react todo demo")
