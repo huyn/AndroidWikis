@@ -14,4 +14,4 @@
 所以最后的解决方案应该是基于typeface.js或者cufon的，然后和云端配合对字库进行裁剪，转换成较小的js文件，再应用。  
 typeface和cufon都是利用在IE中渲染VML，而在非IE浏览器中使用canvas的方式实现“伪”字体的，他们使用起来相对简单，但是可用性和用户体验以及SEO都不是很理想。
 
-[一个介绍字体相关的网站]{http://www.typeisbeautiful.com/2010/01/1903/ "typeifbueatiful"}
+[一个介绍字体相关的网站](http://www.typeisbeautiful.com/2010/01/1903/ "typeifbueatiful")
