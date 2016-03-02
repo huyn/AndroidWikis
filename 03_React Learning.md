@@ -1,4 +1,4 @@
-React学习路线
+* React学习路线
 
 类目  | check
 ------------- | -------------
@@ -11,7 +11,7 @@ React学习路线
 [webpack+node+react服务端渲染](http://www.jianshu.com/p/97af0000516a "服务端渲染")  |
 [IBM自定义react组件](http://www.ibm.com/developerworks/cn/web/wa-react-intro/index.html "自定义React组件")  |
 
-* flux&redux是什么鬼系列
+* flux&redux是什么鬼系列  
 [redux videos](https://egghead.io/series/getting-started-with-redux "redux videos")
 [getting start width redux](http://davidandsuzi.com/writing-a-basic-app-in-redux/ "redux demo")
 [awesome redux git](https://github.com/xgrommx/awesome-redux "awesome redux")
