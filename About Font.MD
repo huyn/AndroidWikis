@@ -1,7 +1,8 @@
 关于web/wap的自定义字体，有几种技术方案可供选择
-1、css的font-face
-2、sIFR3
-3、typeface.js
+* 1、css的font-face
+* 2、sIFR3
+* 3、typeface.js
+* 4、cufon
 
 关于第一个方案，需要先将字库文件上传托管，然后通过css自动下载字库、应用，达到自定义字体的效果；
 关于第二个方案，sIFR3是采用js和flash结合的技术，通过flash来显示自定义字体；
