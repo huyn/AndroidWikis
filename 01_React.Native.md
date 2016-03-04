@@ -67,7 +67,8 @@ nvm install node && nvm alias default node
 完了 
 ```
 node -v 
-```输出正常版本号
+```
+输出正常版本号
 `npm -v` 输出正常版本号
 表示node安装成功
 
