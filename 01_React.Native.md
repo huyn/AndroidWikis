@@ -30,7 +30,7 @@ fuck
 按照终端输出的log，配置好环境变量
 
 log如下：
-···
+```
 You should create NVM's working directory if it doesn't exist:
 
   mkdir ~/.nvm
@@ -60,18 +60,23 @@ Bash completion has been installed to:
 
 
 3，接着安装node.js
-
+```
 nvm install node && nvm alias default node
-完了 node -v 输出正常版本号
-npm -v 输出正常版本号
+```
+完了 
+```
+node -v 
+```输出正常版本号
+`npm -v` 输出正常版本号
 表示node安装成功
 
 
 4.安装watchman 和flow
 这两个包分别是监控文件变化和类型检查的。安装如下：
 
-brew install watchman
-brew install flow
+```brew install watchman```
+```brew install flow```
 5.最后安装react native
-npm install -g react-native-cli
-Android需要配置环境变量export ANDROID_HOME=/Users/huyaonan/Library/Android/sdk
+```npm install -g react-native-cli```
+Android需要配置环境变量
+```export ANDROID_HOME=/Users/huyaonan/Library/Android/sdk```
