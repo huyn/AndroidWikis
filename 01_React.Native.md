@@ -76,8 +76,9 @@ node -v
 4.安装watchman 和flow
 这两个包分别是监控文件变化和类型检查的。安装如下：
 
-```brew install watchman```
-```brew install flow```
+```brew install watchman```  
+```brew install flow```  
+
 5.最后安装react native
 ```npm install -g react-native-cli```
 Android需要配置环境变量
