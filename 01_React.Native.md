@@ -49,11 +49,12 @@ Type `nvm help` for further information.
 
 Bash completion has been installed to:
   /usr/local/etc/bash_completion.d
-···
+```
 
 
 然后
-```curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
+```
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
 ```
 这时候在终端输入 
 ```nvm help```   正常显示就安装好了
