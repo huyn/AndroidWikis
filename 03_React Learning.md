@@ -24,3 +24,7 @@
 [react todo demo](http://www.reqianduan.com/2297.html "react todo demo")
 
 [webpack&react demo](http://www.tuicool.com/articles/BrAVv2y "webpack&react demo")
+
+https://segmentfault.com/a/1190000003868781  
+https://segmentfault.com/a/1190000002767365#articleHeader9  
+https://segmentfault.com/a/1190000003745823#articleHeader1  
