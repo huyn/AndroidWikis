@@ -21,7 +21,9 @@
 [flux demo](http://www.jcodecraeer.com/a/javascript/2015/0311/2581.html "flux demo")  
 
 
+这个demo跑通了
 [react todo demo](http://www.reqianduan.com/2297.html "react todo demo")
+* `npm install` + `webpack`
 
 [webpack&react demo](http://www.tuicool.com/articles/BrAVv2y "webpack&react demo")
 
