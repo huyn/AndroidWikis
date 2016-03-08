@@ -23,7 +23,10 @@
 
 这个demo跑通了
 [react todo demo](http://www.reqianduan.com/2297.html "react todo demo")
-* `npm install` + `webpack`
+* `npm install` + `webpack`  
+这个服务端的react demo也通了，是基于browserify的
+[react server demo](http://wk.gewara.com/display/techprojectdocs/6.6Android+checklist "react server demo")  
+* `npm install` + `node server.js`
 
 [webpack&react demo](http://www.tuicool.com/articles/BrAVv2y "webpack&react demo")
 
