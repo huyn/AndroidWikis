@@ -25,3 +25,4 @@ If any other errors happen, follow the log and fix it
 when you success, you will find some surprise int you filr /Users/huyaonan/maven-repo
 
 6.Continue folling the tutor...
+'$ ./gradlew -p modulename clean build uploadArchives --info'
