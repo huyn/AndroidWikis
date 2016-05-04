@@ -48,3 +48,6 @@ task buildLib(dependsOn:['build'])<< {
 ```
 
 then execute `./gradlew buildLib` by terminal and you will get MyJar.jar under the folder
+
+* 3.jar with proguard
+http://android.jobbole.com/81235/
