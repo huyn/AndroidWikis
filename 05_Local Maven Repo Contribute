@@ -11,7 +11,9 @@ export PATH
 
 3.change maven/conf/settings.xml
 make 
+```
 <localRepository>/Users/huyaonan/maven-repo</localRepository>
+```
 visible
 This is your self-created maven repo
 
