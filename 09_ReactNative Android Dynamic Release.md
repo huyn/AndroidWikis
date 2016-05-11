@@ -66,3 +66,6 @@ mReactInstanceManager = ReactInstanceManager.builder()
                 .setInitialLifecycleState(LifecycleState.RESUMED)
                 .build();
 ```
+
+
+PS:之前reactnative上的一个issue［https://github.com/facebook/react-native/pull/3189］描述的部分是有问题的，到现在为止，`ReactInstanceManager`根本就没有`setJsBundleLoader`这个方法
