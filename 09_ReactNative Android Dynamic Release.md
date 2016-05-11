@@ -54,4 +54,15 @@ Class<?> RIManagerClazz = mReactInstanceManager.getClass();
   `gradle.properties`中加入`android.useDeprecatedNdk=true`
   安装好ndk后在`local.properties`中加入`ndk.dir=/Users/huyaonan/android-ndk-r10e`
 
-* @race604的知乎日报项目写了个很赞的gradle脚本，能将bundle在打包的时候写一份到`assets`文件夹当中，这样，才真正的可以当做一个正式包发布出去，再结合以上动态更新的代码，一个完整的热加载功能就实现了
+* @race604的知乎日报项目写了个很赞的gradle脚本，能将bundle在打包的时候写一份到`assets`文件夹当中，这样，才真正的可以当做一个正式包发布出去，再结合以上动态更新的代码，一个完整的热加载功能就实现了。附`ReactInstanceManager`实例化部分代码：
+```
+mReactInstanceManager = ReactInstanceManager.builder()
+                .setApplication(getApplication())
+                .setJSBundleFile("assets://ReactNativeDevBundle.js")
+                .setJSMainModuleName("index.android")
+                .addPackage(new MainReactPackage())
+                .addPackage(new CustomReactPackage())
+                .setUseDeveloperSupport(BuildConfig.DEBUG)
+                .setInitialLifecycleState(LifecycleState.RESUMED)
+                .build();
+```
