@@ -20,7 +20,7 @@ This is your self-created maven repo
 
 * 4.follow the tutor
 * 5.When execute 
-`./gradlew -p basenetworkframework clean build uploadArchives --infoc`
+`./gradlew -p basenetworkframework clean build uploadArchives --info`
 
 `bash: ./gradle: permission denied` would happen
 
@@ -30,6 +30,6 @@ If any other errors happen, follow the log and fix it
 
 when you success, you will find some surprise int you filr /Users/huyaonan/maven-repo
 
-* 6.Continue folling the tutor...
+* 6.Continue following the tutor...
 
 `$ ./gradlew -p modulename clean build uploadArchives --info`
