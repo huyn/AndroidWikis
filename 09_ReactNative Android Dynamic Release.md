@@ -49,7 +49,7 @@ Class<?> RIManagerClazz = mReactInstanceManager.getClass();
         ndk {
             abiFilters "armeabi-v7a", "x86"
         }
-        ```
+```
   根据自身需要，编译动态库
   `gradle.properties`中加入`android.useDeprecatedNdk=true`
   安装好ndk后在`local.properties`中加入`ndk.dir=/Users/huyaonan/android-ndk-r10e`
