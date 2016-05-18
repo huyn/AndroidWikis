@@ -5,6 +5,13 @@
 * https://github.com/race604/ZhiHuDaily-React-Native
 * http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+一些资源收集  
+[ReactNative Animated动画](http://www.alloyteam.com/2016/01/reactnative-animated/?utm_source=tuicool&utm_medium=referral)  
+[ReactNative Animated API with PanRespondor](http://www.tuicool.com/articles/rU7ZnmJ)  
+[ReactNative Animated Demo](https://github.com/brentvatne/react-native-animated-demo-tinder)  
+[ReactNative Demo Collections](https://js.coach/react-native/react-native-parallax-view?filters=ios&search=scroll)  
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 思路总结：
 首先翻到了这一片博客［http://richardcao.me/2015/12/03/React-native-Android-%E7%83%AD%E6%9B%B4%E6%96%B0/］
