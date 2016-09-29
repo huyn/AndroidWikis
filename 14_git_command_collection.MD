@@ -26,4 +26,4 @@ use `rm filename` to delete a file beyond git
 use `git rm filename` to delete a file under git control
 
 * Connect to Remote Repository(Github)
-｀ssh-keygen -t rsa -C "youremail@example.com"｀
+｀ssh-keygen -t rsa -C youremail@example.com`
