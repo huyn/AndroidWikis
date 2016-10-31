@@ -19,3 +19,4 @@
 
 [Java ClassLoader机制解析](http://my.oschina.net/aminqiao/blog/262601)
 
+[所有的插件化方案汇总贴](http://www.androidblog.cn/index.php/Index/detail/id/16#)
