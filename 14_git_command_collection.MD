@@ -3,9 +3,9 @@ from http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c
 * Create a repository
 `git init <git dir>`
 
-* add local repository to remote server
-`git remote add origin git@github.com:huyn/DemoGroup.git` 
-then
+* add local repository to remote server  
+`git remote add origin git@github.com:huyn/DemoGroup.git`  
+then  
 `git push -u origin master`
 
 * Commit a file
